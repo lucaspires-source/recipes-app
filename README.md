@@ -1,4 +1,4 @@
-This project is a recipe app which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project is a recipe app which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) as a training while studying React Hooks
 
 ## Available Scripts
 
